@@ -1,5 +1,8 @@
 def link 
-  
+  say = "It's Dangerous To Go Alone! Take This."
+  puts say 
+  say
+end
 
 def mario
   phrase = "It's-a me, Mario!"
