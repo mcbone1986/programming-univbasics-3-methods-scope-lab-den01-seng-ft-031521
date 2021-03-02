@@ -1,7 +1,6 @@
 def link 
   say = "It's Dangerous To Go Alone! Take This."
   puts say
-  say
 end
 link 
 
